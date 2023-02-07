@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Data Structures (GitHub).iml" filepath="$PROJECT_DIR$/Data Structures (GitHub).iml" />
-      <module fileurl="file://$PROJECT_DIR$/Linked List/src.iml" filepath="$PROJECT_DIR$/Linked List/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinglyLinkedList/src.iml" filepath="$PROJECT_DIR$/SinglyLinkedList/src.iml" />
     </modules>
   </component>
 </project>
